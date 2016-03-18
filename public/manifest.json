@@ -3,8 +3,8 @@
     "description": "Web App Description",
     "version": "1.0.0",
     "developer": {
-        "name": "Your Name",
-        "url": "https://github.com/gasolin/webapplate"
+        "name": "flora",
+        "url": "https://github.com/florawang/webapplate"
     },
     "icons":{
         "60": "/style/icons/apple-touch-icon-precomposed.png",
